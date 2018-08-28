@@ -1,0 +1,14 @@
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\fistEntity.deps.json
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\fistEntity.runtimeconfig.json
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\fistEntity.runtimeconfig.dev.json
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\fistEntity.dll
+D:\học\fistEntity\bin\Debug\netcoreapp2.1\fistEntity.pdb
+D:\học\fistEntity\obj\Debug\netcoreapp2.1\fistEntity.csprojAssemblyReference.cache
+D:\học\fistEntity\obj\Debug\netcoreapp2.1\fistEntity.csproj.CoreCompileInputs.cache
+D:\học\fistEntity\obj\Debug\netcoreapp2.1\fistEntity.AssemblyInfoInputs.cache
+D:\học\fistEntity\obj\Debug\netcoreapp2.1\fistEntity.AssemblyInfo.cs
+D:\học\fistEntity\obj\Debug\netcoreapp2.1\fistEntity.dll
+D:\học\fistEntity\obj\Debug\netcoreapp2.1\fistEntity.pdb
